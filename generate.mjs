@@ -19,6 +19,13 @@ const BOARDS = [
 ];
 /** The API is the same behind every board domain; one host keeps it simple. */
 const API = 'https://www.remotefrontendjobs.com/api/jobs';
+// The site challenges requests from hosting networks (GitHub's runners
+// included). A firewall rule lets this header through; the value is the
+// repo secret JOBS_REPO_KEY. Unset (a laptop), no header is sent.
+const API_HEADERS = {
+  Accept: 'application/json',
+  ...(process.env.JOBS_REPO_KEY ? { 'x-jobs-repo-key': process.env.JOBS_REPO_KEY } : {}),
+};
 const PAGE = 50;
 const MAX_PER_TABLE = 150;
 const MAX_AGE_DAYS = 21;
@@ -41,7 +48,7 @@ async function getJson(url) {
   let last = '';
   for (let attempt = 1; attempt <= 4; attempt++) {
     try {
-      const res = await fetch(url, { headers: { Accept: 'application/json' } });
+      const res = await fetch(url, { headers: API_HEADERS });
       if (res.ok) return await res.json();
       last = `HTTP ${res.status}`;
     } catch (err) {
