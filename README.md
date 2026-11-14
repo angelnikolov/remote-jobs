@@ -2,7 +2,7 @@
 
 Most "remote" developer jobs only hire in one country. This list is the ones that say they hire anywhere: frontend, backend and Java roles tagged worldwide, newest first.
 
-**170 jobs, updated November 14, 2026.** Rebuilt every day from live postings; jobs older than three weeks drop off.
+**170 jobs, updated November 14, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Looking for a first job? See [remote junior and internship developer jobs](JUNIOR.md).
 

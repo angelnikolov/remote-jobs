@@ -2,7 +2,7 @@
 
 Entry-level and internship developer roles that are fully remote. Only about 3% of remote developer postings are junior, so they are collected here, newest first, with where each one hires.
 
-**214 jobs, updated November 14, 2026.** Rebuilt every day from live postings; jobs older than three weeks drop off.
+**214 jobs, updated November 14, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Not junior? See [remote developer jobs open worldwide](README.md).
 
