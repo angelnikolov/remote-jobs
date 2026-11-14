@@ -50,7 +50,9 @@ async function getJson(url) {
     try {
       const res = await fetch(url, { headers: API_HEADERS });
       if (res.ok) return await res.json();
-      last = `HTTP ${res.status}`;
+      // Say who refused: Cloudflare marks its own challenges and blocks.
+      const body = (await res.text()).replace(/\s+/g, ' ').slice(0, 160);
+      last = `HTTP ${res.status} (server=${res.headers.get('server')}, cf-mitigated=${res.headers.get('cf-mitigated')}, ray=${res.headers.get('cf-ray')}, body="${body}")`;
     } catch (err) {
       last = String(err);
     }
