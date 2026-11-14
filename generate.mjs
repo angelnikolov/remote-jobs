@@ -17,15 +17,14 @@ const BOARDS = [
   { key: 'backend', name: 'Backend', domain: 'https://www.remotebackendjobs.com' },
   { key: 'java', name: 'Java', domain: 'https://www.remotejavajobs.com' },
 ];
-/** The API is the same behind every board domain; one host keeps it simple. */
-const API = 'https://www.remotefrontendjobs.com/api/jobs';
-// The site challenges requests from hosting networks (GitHub's runners
-// included). A firewall rule lets this header through; the value is the
-// repo secret JOBS_REPO_KEY. Unset (a laptop), no header is sent.
-const API_HEADERS = {
-  Accept: 'application/json',
-  ...(process.env.JOBS_REPO_KEY ? { 'x-jobs-repo-key': process.env.JOBS_REPO_KEY } : {}),
-};
+/**
+ * The API is the same behind every board domain; one host keeps it simple.
+ * The site's bot protection challenges hosting networks (GitHub's runners
+ * included), so the daily run happens on the server itself with
+ * JOBS_API=http://localhost:3333/api/jobs (see update.sh).
+ */
+const API = process.env.JOBS_API || 'https://www.remotefrontendjobs.com/api/jobs';
+const API_HEADERS = { Accept: 'application/json' };
 const PAGE = 50;
 const MAX_PER_TABLE = 150;
 const MAX_AGE_DAYS = 21;
