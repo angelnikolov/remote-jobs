@@ -2,14 +2,21 @@
 
 Entry-level and internship developer roles that are fully remote. Only about 3% of remote developer postings are junior, so they are collected here, newest first, with where each one hires.
 
-**217 jobs, updated November 16, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
+**221 jobs, updated November 17, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Not junior? See [remote developer jobs open worldwide](README.md).
 
-## Frontend (44)
+## Frontend (49)
 
 | Company | Role | Open to | Level | Pay / year | Posted |
 |---|---|---|---|---|---|
+| Bask Health | [Product Engineering Intern](https://www.remotefrontendjobs.com/cmwivjvyg0dfkcr6la5t0c7rb-product-engineering-intern?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern |  | Nov 16 |
+| Bask Health | [Frontend Engineer, New Grad](https://www.remotefrontendjobs.com/cmwir9j5s0cmhcr6lgpznp42k-frontend-engineer-new-grad?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 16 |
+| Bask Health | [Junior Design Engineer](https://www.remotefrontendjobs.com/cmwir9j5u0cmrcr6l7l7n36bo-junior-design-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 16 |
+| Bask Health | [Junior Full Stack Engineer, Merchant Tools](https://www.remotefrontendjobs.com/cmwieenfr0bczcr6lwmn27ssu-junior-full-stack-engineer-merchant-tools?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 15 |
+| Bask Health | [Junior Full Stack Engineer](https://www.remotefrontendjobs.com/cmwieenft0bdtcr6lha3pbp8q-junior-full-stack-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 15 |
+| Bask Health | [Software Engineer, Early Career](https://www.remotefrontendjobs.com/cmwia48ax0ag3cr6lajswjemk-software-engineer-early-career?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 15 |
+| Bask Health | [Creative Engineering Intern](https://www.remotefrontendjobs.com/cmwia48ay0agecr6lg9vdkoy7-creative-engineering-intern?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern |  | Nov 15 |
 | Pavago | [WordPress Developer](https://www.remotefrontendjobs.com/cmwguofj109tzceh8vazpucuo-wordpress-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Europe, Latin America, Asia, Africa | entry |  | Nov 14 |
 | CSC Generation | [Junior Software Engineer](https://www.remotefrontendjobs.com/cmwg0o62a06fwceh86hsqm40e-junior-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US, Canada | entry |  | Nov 14 |
 | ICF | [Full Stack Developer — Global Health & AI (REMOTE ROLE)](https://www.remotefrontendjobs.com/cmwfnt6d104qeceh8pptcnilu-full-stack-developer-global-health-ai-remote-role?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $81k–$139k | Nov 13 |
@@ -52,8 +59,6 @@ Not junior? See [remote developer jobs open worldwide](README.md).
 | Motorola Solutions | [Jr. Software Engineer - Java, Angular, JavaScript](https://www.remotefrontendjobs.com/cmvqnlrwf01mapukecgbr75x3-jr-software-engineer-java-angular-javascript?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Canada | entry | $51k–$66k | Oct 27 |
 | Flux IT | [React Developer Jr.](https://www.remotefrontendjobs.com/cmvqjbetk015npukexfncj4my-react-developer-jr?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Argentina | entry |  | Oct 27 |
 | iCore | [React JS Developer](https://www.remotefrontendjobs.com/cmvqjbetl015vpukev1je92n5-react-js-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | India | entry |  | Oct 27 |
-| Walrus | [Full Stack Developer Intern](https://www.remotefrontendjobs.com/cmvrhmcx604cvpukewvfqbss0-full-stack-developer-intern?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern | $77k–$113k | Oct 27 |
-| EdgeQ Technologies Private | [Full Stack Developer (AI)](https://www.remotefrontendjobs.com/cmvp3vk2i0i7pfrrzxtfkicy1-full-stack-developer-ai?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $80k–$150k | Oct 26 |
 
 More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
@@ -61,6 +66,13 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 
 | Company | Role | Open to | Level | Pay / year | Posted |
 |---|---|---|---|---|---|
+| Bask Health | [Junior Forward Deployed Engineer](https://www.remotebackendjobs.com/cmwir9j5u0cmncr6l5i9zitst-junior-forward-deployed-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 16 |
+| Bask Health | [Junior Applied AI Engineer](https://www.remotebackendjobs.com/cmwiip0940bsscr6lqdz6x3za-junior-applied-ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 15 |
+| R1 RCM | [US-IT Privacy Associate](https://www.remotebackendjobs.com/cmwief3we0bevcr6loqx3l9pb-us-it-privacy-associate?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $35k–$48k | Nov 15 |
+| SAGO | [Data Engineer](https://www.remotebackendjobs.com/cmwieenfs0bdacr6l5udq76rg-data-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | India | entry |  | Nov 15 |
+| Xperteez Technology | [🌍 Junior Machine Learning Engineer, Remote- Contract](https://www.remotebackendjobs.com/cmwieenfs0bdccr6lk9e8mzgk-junior-machine-learning-engineer-remote-contract?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Worldwide | entry | $125k–$250k | Nov 15 |
+| Aretum | [Junior Web Developer/Engineer - Contingent](https://www.remotebackendjobs.com/cmwia48ay0agccr6lz34bhmim-junior-web-developerengineer-contingent?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $75k–$100k | Nov 15 |
+| PaceMate™ | [Associate Application Engineer](https://www.remotebackendjobs.com/cmwhsyx2907ywcr6lyhpsbujp-associate-application-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $135k–$155k | Nov 15 |
 | Valiant Solutions | [Associate Software Engineer](https://www.remotebackendjobs.com/cmwgyyw9x0amnceh8er1vggqw-associate-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $75k–$90k | Nov 14 |
 | Blackbird Lab | [Middle Software Engineer (Ruby on Rails)](https://www.remotebackendjobs.com/cmwgm3wxr08xjceh8bvlsxfqq-middle-software-engineer-ruby-on-rails?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Poland, Ukraine | entry |  | Nov 14 |
 | Trellix Software India Private | [Associate Security Researcher](https://www.remotebackendjobs.com/cmwgm3wxs08xtceh818dsx1fr-associate-security-researcher?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Malaysia | entry |  | Nov 14 |
@@ -127,7 +139,6 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | ITC2 | [PHP Assistant (Intern)](https://www.remotebackendjobs.com/cmwajhe4v0u5p4yqh834flc1z-php-assistant-intern?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | China | intern |  | Nov 10 |
 | Zelh | [AI Engineer / AI Agent Developer](https://www.remotebackendjobs.com/cmwbun4cx11lt4yqha7o47lub-ai-engineer-ai-agent-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Not stated | entry |  | Nov 10 |
 | DeepReel | [Software Engineer](https://www.remotebackendjobs.com/cmwa6mc2p0s414yqhg6u1jcfb-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | India | entry |  | Nov 10 |
-| John Staurulakis (jsitel.com) | [Voice and Data Engineer](https://www.remotebackendjobs.com/cmw9ujzxb0ql54yqhdah9b35b-voice-and-data-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Not stated | entry | $40k–$65k | Nov 9 |
 | Cohere | [Software Engineer Intern (Winter 2027)](https://www.remotebackendjobs.com/cmw9y1vyd0qq74yqh0l798dun-software-engineer-intern-winter-2027?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Canada | intern |  | Nov 9 |
 | Walker Advertising | [Data Engineer](https://www.remotebackendjobs.com/cmw9ujo270ql14yqhdx51dzz6-data-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $85k–$90k | Nov 9 |
 | AECOM | [Digital Solutions Software Developer I](https://www.remotebackendjobs.com/cmw9q76vr0q2a4yqhoo2991ji-digital-solutions-software-developer-i?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $33k | Nov 9 |
@@ -205,16 +216,10 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | Iterable | [Machine Learning Engineer](https://www.remotebackendjobs.com/cmw7gd3bl0d4d4yqh4qu6mo9l-machine-learning-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Portugal | entry | $55k–$68k | Nov 3 |
 | Parsons | [Software Engineer I](https://www.remotebackendjobs.com/cmw3mv3wj070xifrus47ersbf-software-engineer-i?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $88k–$155k | Nov 3 |
 | Fidelity Canada | [IS Quality Assurance Analyst](https://www.remotebackendjobs.com/cmw2xh4n303i9ifrurpkll290-is-quality-assurance-analyst?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Canada | entry | $81k | Nov 3 |
-| Parsons | [Software Engineer Intern](https://www.remotebackendjobs.com/cmw2xh4n303ijifruph1uf9l2-software-engineer-intern?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern | $48k–$83k | Nov 3 |
-| M&S Consulting | [Software Engineer I — Salesforce Integration (Tier 2 Security Clearance)](https://www.remotebackendjobs.com/cmw029ptm08d4qs2b4z03dfjl-software-engineer-i-salesforce-integration-tier-2-security-clearance?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry |  | Nov 2 |
-| Phillips 66 | [Market Risk Analyst I](https://www.remotebackendjobs.com/cmw2okaou029lifru1sa5ute5-market-risk-analyst-i?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $96k–$118k | Nov 2 |
-| Smartsheet | [Software Engineer I (Remote Eligible)](https://www.remotebackendjobs.com/cmvztv3cf0737qs2bs7hvboh4-software-engineer-i-remote-eligible?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $108k–$148k | Nov 2 |
-| VSP Vision | [Internship, AI – Agentic & Machine Learning Development](https://www.remotebackendjobs.com/cmvztpczw06w2qs2b6ge1pevw-internship-ai-agentic-machine-learning-development?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern | $63k–$76k | Nov 2 |
-| Torc Robotics | [Application Integration Engineer 1](https://www.remotebackendjobs.com/cmvzpljb206o6qs2b2r34fl0d-application-integration-engineer-1?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | entry | $90k–$108k | Nov 2 |
 
 More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Java (23)
+## Java (22)
 
 | Company | Role | Open to | Level | Pay / year | Posted |
 |---|---|---|---|---|---|
@@ -240,7 +245,6 @@ More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=gi
 | Phorest Salon Software | [Associate Software Engineer - 2027 Graduate Programme](https://www.remotejavajobs.com/cmvssriw901vl13znbwdwlwf6-associate-software-engineer-2027-graduate-programme?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | UK, Ireland | entry |  | Oct 28 |
 | Crystal Dynamics | [Gameplay Animation Intern [Spring 2027]](https://www.remotejavajobs.com/cmvsx2p5h02ix13zncrk8fqy7-gameplay-animation-intern-spring-2027?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern | $42k–$48k | Oct 28 |
 | Excel Sports Management | [Spring 2027 - Intern, Search and Advisory](https://www.remotejavajobs.com/cmvsohge601m413znaw791eza-spring-2027-intern-search-and-advisory?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | US | intern | $31k | Oct 27 |
-| Varicent | [Cloud Operations Engineer I](https://www.remotejavajobs.com/cmvptlnnj00qzorzhuxk9dmcx-cloud-operations-engineer-i?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | Worldwide | entry |  | Oct 26 |
 
 More on [remotejavajobs.com](https://www.remotejavajobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
