@@ -2,11 +2,11 @@
 
 Most "remote" developer jobs only hire in one country. This list is the ones that say they hire anywhere: frontend, backend and Java roles tagged worldwide, newest first.
 
-**143 jobs, updated November 18, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
+**152 jobs, updated November 20, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Looking for a first job? See [remote junior and internship developer jobs](JUNIOR.md).
 
-## Frontend (27)
+## Frontend (23)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
@@ -33,17 +33,32 @@ Looking for a first job? See [remote junior and internship developer jobs](JUNIO
 | Human Power BG | [Senior Front-End Developer](https://www.remotefrontendjobs.com/cmw1lzdpv018oqcsj0h9vowdu-senior-front-end-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $60k | Nov 4 |
 | Tailscale | [Documentation Platform Engineer](https://www.remotefrontendjobs.com/cmw14ugvn02iibduhtwlbxvrk-documentation-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 3 |
 | Motu Novu | [Front-End Developer (Flex-Time) (Global)](https://www.remotefrontendjobs.com/cmvz893ok04j4qs2b4cndrumm-front-end-developer-flex-time-global?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $73k–$104k | Nov 2 |
-| Fluence International | [Full-Stack Developer](https://www.remotefrontendjobs.com/cmvw7mtnv038q2k8udgsq2ej9-full-stack-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid | $42k–$60k | Oct 29 |
-| Jobgether | [Lead Teacher – Software Development & AI (Full-Stack) IT SkillSprint](https://www.remotefrontendjobs.com/cmvtihr8504vl13zn9mrxsh5f-lead-teacher-software-development-ai-full-stack-it-skillsprint?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| Jobgether | [Freelance Full-Stack Developer \| Django \| AI Products \| Python & LLM Integration](https://www.remotefrontendjobs.com/cmvte7dr304c013znp9h5x43s-freelance-full-stack-developer-django-ai-products-python-llm-integration?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Oct 29 |
-| SimpleTiger | [Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)](https://www.remotefrontendjobs.com/cmvsx25h502i513zn2cj8krcx-web-developer-wordpress-hubspot-us-based-remote-contractor?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $42k–$62k | Oct 29 |
 
 More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Backend (103)
+## Backend (115)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| micro1 | [Software Engineer (Electron.js)](https://www.remotebackendjobs.com/cmwmt0yg2096d3q0u7s4ixw4u-software-engineer-electronjs?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $150k–$220k | Nov 18 |
+| Ramp | [Research Engineer, Agentic Systems](https://www.remotebackendjobs.com/cmwmt137w09793q0uyf497u11-research-engineer-agentic-systems?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| EverTrue | [Solutions Engineer](https://www.remotebackendjobs.com/cmwmkgbbj07lq3q0u2x17fzy9-solutions-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid | $105k–$115k | Nov 18 |
+| Canonical | [Software Engineer - Python and K8s](https://www.remotebackendjobs.com/cmwmg5rqz06ze3q0umy1hckuv-software-engineer-python-and-k8s?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| Canonical | [Software Support Engineer](https://www.remotebackendjobs.com/cmwmg5rr006zk3q0u0i5etzrn-software-support-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| Canonical | [Software Engineer, Cloud - Sustaining Engineering](https://www.remotebackendjobs.com/cmwmg5rr006zs3q0usx17fz9x-software-engineer-cloud-sustaining-engineering?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| Canonical | [Cloud Solutions Architect - Alliances](https://www.remotebackendjobs.com/cmwmg5rr207063q0uj6uzx7ip-cloud-solutions-architect-alliances?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| Canonical | [Engineering Manager - AppArmor](https://www.remotebackendjobs.com/cmwmg5rr207053q0uno04jfl5-engineering-manager-apparmor?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 18 |
+| Canonical | [Engineering Manager, Managed Services](https://www.remotebackendjobs.com/cmwmg5rr2070a3q0uzii7mtfs-engineering-manager-managed-services?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 18 |
+| Jobgether | [Senior Database Administrator - Core Infrastructure](https://www.remotebackendjobs.com/cmwmbviqk06d53q0u56ef5b3w-senior-database-administrator-core-infrastructure?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 18 |
+| Boosta | [Middle Software Engineer - Backend (Platform) \| FlintN](https://www.remotebackendjobs.com/cmwlqfr2e031a3q0un49opkmw-middle-software-engineer-backend-platform-flintn?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| Addi | [Engineering Manager](https://www.remotebackendjobs.com/cmwlqfv23032d3q0us6xs3wpf-engineering-manager?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 18 |
+| Vesta | [Engineering Manager](https://www.remotebackendjobs.com/cmwlj56je01yv3q0up9p6tg3o-engineering-manager?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager | $240k–$280k | Nov 18 |
+| Natera | [Principal Software Engineer in Test](https://www.remotebackendjobs.com/cmwldkul601573q0ux5cbp9wi-principal-software-engineer-in-test?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 17 |
+| Affirm | [Manager, Software Engineering (Code Standards)](https://www.remotebackendjobs.com/cmwl505ic003c3q0ucaqciwwf-manager-software-engineering-code-standards?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 17 |
+| Camunda | [Forward Deployed Engineer](https://www.remotebackendjobs.com/cmwkx4m7y00f85qv5poaf10up-forward-deployed-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $1k | Nov 17 |
+| Elvoro | [AI Creative Engineer (Social Media)](https://www.remotebackendjobs.com/cmwkwg3ih004q5qv5vwt4a2pu-ai-creative-engineer-social-media?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 17 |
+| Jobgether | [Middle Software Engineer - Backend (Platform)](https://www.remotebackendjobs.com/cmwknvfus06gi11eldhw38eur-middle-software-engineer-backend-platform?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 17 |
+| SafetyWing | [Product Engineer](https://www.remotebackendjobs.com/cmwkjk9ca05xq11elsi4r9186-product-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 17 |
 | Ilia | [PL/SR Desenvolvimento Full Stack (Java e React.js)](https://www.remotebackendjobs.com/cmwjgzxz900al11elx2plk575-plsr-desenvolvimento-full-stack-java-e-reactjs?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 16 |
 | Jobgether | [Systems Engineer, Experiments & Integration (Mid/Senior/Principal)](https://www.remotebackendjobs.com/cmwjgzxz800ai11el4dualtft-systems-engineer-experiments-integration-midseniorprincipal?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $160k–$220k | Nov 16 |
 | Jobgether | [Senior Fullstack Developer](https://www.remotebackendjobs.com/cmwjgzxz800ah11el0ub2fjkj-senior-fullstack-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 16 |
@@ -140,20 +155,18 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | Instacart | [Senior Software Engineer, Enterprise AI](https://www.remotebackendjobs.com/cmvvjd4o8004n2k8u9859rgwt-senior-software-engineer-enterprise-ai?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 30 |
 | Tether.io | [P2P Node.js Engineer - Holepunch (100% Remote, Worldwide)](https://www.remotebackendjobs.com/cmvw93gf203dp2k8u4f1sq92u-p2p-nodejs-engineer-holepunch-100-remote-worldwide?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Oct 30 |
 | Wrike | [CloudOps Engineer (Network Engineer)](https://www.remotebackendjobs.com/cmvv27z3f010dgs4nrjjvarvc-cloudops-engineer-network-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Oct 30 |
-| Cresteo | [Software Engineer (Go/Java)](https://www.remotebackendjobs.com/cmvtzmoz306bp13znyyboqi1i-software-engineer-gojava?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Oct 29 |
-| MUTT DATA | [#4 Data Engineer Semi Senior - Feature Engineering - Databricks](https://www.remotebackendjobs.com/cmvvasdzz01pcgs4ngajkl7z1-4-data-engineer-semi-senior-feature-engineering-databricks?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| TMC International | [Senior Java Developer](https://www.remotebackendjobs.com/cmvtmrtms05a913znpewsiw1r-senior-java-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| Ensono | [Lead Application Modernization Consultant](https://www.remotebackendjobs.com/cmvtmrvgo05at13znyroi7v52-lead-application-modernization-consultant?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| Jobgether | [Lead Teacher – Software Development & AI (Full-Stack) IT SkillSprint](https://www.remotebackendjobs.com/cmvtihr8504vl13zn9mrxsh5f-lead-teacher-software-development-ai-full-stack-it-skillsprint?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| Jobgether | [Freelance Full-Stack Developer \| Django \| AI Products \| Python & LLM Integration](https://www.remotebackendjobs.com/cmvte7dr304c013znp9h5x43s-freelance-full-stack-developer-django-ai-products-python-llm-integration?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Oct 29 |
-| SimpleTiger | [Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)](https://www.remotebackendjobs.com/cmvsx25h502i513zn2cj8krcx-web-developer-wordpress-hubspot-us-based-remote-contractor?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $42k–$62k | Oct 29 |
 
 More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Java (13)
+## Java (14)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Boosta | [Middle Software Engineer - Backend (Platform) \| FlintN](https://www.remotejavajobs.com/cmwlqfr2e031a3q0un49opkmw-middle-software-engineer-backend-platform-flintn?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
+| Natera | [Principal Software Engineer in Test](https://www.remotejavajobs.com/cmwldkul601573q0ux5cbp9wi-principal-software-engineer-in-test?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 17 |
+| Camunda | [Forward Deployed Engineer](https://www.remotejavajobs.com/cmwkx4m7y00f85qv5poaf10up-forward-deployed-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $1k | Nov 17 |
+| Jobgether | [Middle Software Engineer - Backend (Platform)](https://www.remotejavajobs.com/cmwknvfus06gi11eldhw38eur-middle-software-engineer-backend-platform?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 17 |
+| SafetyWing | [Product Engineer](https://www.remotejavajobs.com/cmwkjk9ca05xq11elsi4r9186-product-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 17 |
 | Ilia | [PL/SR Desenvolvimento Full Stack (Java e React.js)](https://www.remotejavajobs.com/cmwjgzxz900al11elx2plk575-plsr-desenvolvimento-full-stack-java-e-reactjs?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 16 |
 | Jobgether | [Senior Fullstack Developer](https://www.remotejavajobs.com/cmwjgzxz800ah11el0ub2fjkj-senior-fullstack-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 16 |
 | Nortal | [(EG0080) Java Engineer - Talent Connection](https://www.remotejavajobs.com/cmwh7je2800dwcr6l25h4q521-eg0080-java-engineer-talent-connection?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 15 |
@@ -163,10 +176,6 @@ More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=gi
 | ecosio | [Quality Assurance Engineer (m/f/d)](https://www.remotejavajobs.com/cmw5avh6k05s8a1vyfd5mmgd9-quality-assurance-engineer-mfd?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 6 |
 | Truelogic | [Adobe Multi-Solutions Architect (AEP/CDP) - Marketing](https://www.remotejavajobs.com/cmw0rz6rj013bbduhsldd722y-adobe-multi-solutions-architect-aepcdp-marketing?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 3 |
 | Alten | [V.I.E Java Backend Engineer (all gender)](https://www.remotejavajobs.com/cmvzgtrb205h9qs2bbte30cxn-vie-java-backend-engineer-all-gender?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 2 |
-| Cresteo | [Software Engineer (Go/Java)](https://www.remotejavajobs.com/cmvtzmoz306bp13znyyboqi1i-software-engineer-gojava?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Oct 29 |
-| TMC International | [Senior Java Developer](https://www.remotejavajobs.com/cmvtmrtms05a913znpewsiw1r-senior-java-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| Ensono | [Lead Application Modernization Consultant](https://www.remotejavajobs.com/cmvtmrvgo05at13znyroi7v52-lead-application-modernization-consultant?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
-| Jobgether | [Lead Teacher – Software Development & AI (Full-Stack) IT SkillSprint](https://www.remotejavajobs.com/cmvtihr8504vl13zn9mrxsh5f-lead-teacher-software-development-ai-full-stack-it-skillsprint?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Oct 29 |
 
 More on [remotejavajobs.com](https://www.remotejavajobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
