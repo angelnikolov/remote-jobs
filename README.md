@@ -2,7 +2,7 @@
 
 Most "remote" developer jobs only hire in one country. This list is the ones that say they hire anywhere: frontend, backend and Java roles tagged worldwide, newest first.
 
-**166 jobs, updated November 22, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
+**175 jobs, updated November 23, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Looking for a first job? See [remote junior and internship developer jobs](JUNIOR.md).
 
@@ -37,10 +37,17 @@ Looking for a first job? See [remote junior and internship developer jobs](JUNIO
 
 More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Backend (127)
+## Backend (132)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Elvoro | [AI App Developer (ChatGPT, Claude & Grok Connectors) – Elvoro Ltd](https://www.remotebackendjobs.com/cmwrbwoj00ysi3q0u5b2w5hxj-ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 22 |
+| Oddball | [Lead Integration Architect](https://www.remotebackendjobs.com/cmwrbwpls0ytg3q0uz4gok7mq-lead-integration-architect?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 22 |
+| Oddball | [Senior Integration Engineer](https://www.remotebackendjobs.com/cmwrbwpls0ytf3q0up35isoqi-senior-integration-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 22 |
+| Lattice | [Engineering Manager, Integrations](https://www.remotebackendjobs.com/cmwrg75fp15y53q0uf4wtf1h8-engineering-manager-integrations?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager | $188k–$235k | Nov 21 |
+| Gemini | [Senior Platform Engineer](https://www.remotebackendjobs.com/cmwrg75fq15yb3q0unsumb4wt-senior-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $140k–$200k | Nov 21 |
+| ZoomInfo Technologies | [Principal Software Engineer](https://www.remotebackendjobs.com/cmwrg75fq15y83q0um2c761hu-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $164k–$257k | Nov 21 |
+| Jobgether | [Java Tech Lead](https://www.remotebackendjobs.com/cmwqdmb2j0tzn3q0uiqplbiah-java-tech-lead?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 21 |
 | Elastic | [Senior Software Engineer - Vector Search - Elasticsearch](https://www.remotebackendjobs.com/cmwpfc82q0oks3q0uzr57gwsc-senior-software-engineer-vector-search-elasticsearch?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $24k | Nov 20 |
 | Everience | [Expert Azure Réseau / VPN Gateway - F/H - Sophia Antipolis / Full remote](https://www.remotebackendjobs.com/cmwpb1lxd0nwp3q0uagnmoe7y-expert-azure-rseau-vpn-gateway-fh-sophia-antipolis-full-remote?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 20 |
 | SecurityScorecard | [Senior Staff Site Reliability Engineer](https://www.remotebackendjobs.com/cmwpb1lxe0nwq3q0upa6iq6so-senior-staff-site-reliability-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 20 |
@@ -166,15 +173,17 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | Alten | [V.I.E Java Backend Engineer (all gender)](https://www.remotebackendjobs.com/cmvzgtrb205h9qs2bbte30cxn-vie-java-backend-engineer-all-gender?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 2 |
 | Jobgether | [Software Engineer - AI Tooling Infrastructure](https://www.remotebackendjobs.com/cmvz898uy04jvqs2bqqaa0rj6-software-engineer-ai-tooling-infrastructure?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 2 |
 | Jobgether | [Azure DevOps Engineer](https://www.remotebackendjobs.com/cmvz898uy04k3qs2b0mwlhzok-azure-devops-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 2 |
-| Jobgether | [Lead Tech SRE](https://www.remotebackendjobs.com/cmvyzoj0u02m2qs2babpirskp-lead-tech-sre?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 2 |
-| Invisible Technologies | [Coding Specialist - AI Trainer (Fluent in Italian)](https://www.remotebackendjobs.com/cmvyr3oik01mtqs2bwbu8tnen-coding-specialist-ai-trainer-fluent-in-italian?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $17k | Nov 2 |
 
 More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Java (15)
+## Java (19)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Oddball | [Senior Integration Engineer](https://www.remotejavajobs.com/cmwrbwpls0ytf3q0up35isoqi-senior-integration-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 22 |
+| ZoomInfo Technologies | [Principal Software Engineer](https://www.remotejavajobs.com/cmwrg75fq15y83q0um2c761hu-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $164k–$257k | Nov 21 |
+| Jobgether | [Java Tech Lead](https://www.remotejavajobs.com/cmwqdmb2j0tzn3q0uiqplbiah-java-tech-lead?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 21 |
+| Wrike | [Senior Product Builder - Talent Pool](https://www.remotejavajobs.com/cmwrg75fq15y93q0uw4dcdwcy-senior-product-builder-talent-pool?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 21 |
 | Elastic | [Senior Software Engineer - Vector Search - Elasticsearch](https://www.remotejavajobs.com/cmwpfc82q0oks3q0uzr57gwsc-senior-software-engineer-vector-search-elasticsearch?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $24k | Nov 20 |
 | Boosta | [Middle Software Engineer - Backend (Platform) \| FlintN](https://www.remotejavajobs.com/cmwlqfr2e031a3q0un49opkmw-middle-software-engineer-backend-platform-flintn?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 18 |
 | Natera | [Principal Software Engineer in Test](https://www.remotejavajobs.com/cmwldkul601573q0ux5cbp9wi-principal-software-engineer-in-test?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 17 |
