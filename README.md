@@ -2,11 +2,11 @@
 
 Most "remote" developer jobs only hire in one country. This list is the ones that say they hire anywhere: frontend, backend and Java roles tagged worldwide, newest first.
 
-**173 jobs, updated November 24, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
+**164 jobs, updated November 26, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Looking for a first job? See [remote junior and internship developer jobs](JUNIOR.md).
 
-## Frontend (24)
+## Frontend (22)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
@@ -32,15 +32,23 @@ Looking for a first job? See [remote junior and internship developer jobs](JUNIO
 | Circle | [Lead Engineer, Member Growth](https://www.remotefrontendjobs.com/cmw7bqvrn08eu4yqhnvcdkf0f-lead-engineer-member-growth?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 8 |
 | Hivex | [FullStack Developer (react + node.js)](https://www.remotefrontendjobs.com/cmw6qb4uc05kh4yqhs0043qx6-fullstack-developer-react-nodejs?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 7 |
 | micro1 | [Frontend / UI Engineer](https://www.remotefrontendjobs.com/cmw48abkg002ta1vy6xrncqfn-frontend-ui-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $146k–$208k | Nov 5 |
-| Human Power BG | [Senior Front-End Developer](https://www.remotefrontendjobs.com/cmw1lzdpv018oqcsj0h9vowdu-senior-front-end-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $60k | Nov 4 |
-| Tailscale | [Documentation Platform Engineer](https://www.remotefrontendjobs.com/cmw14ugvn02iibduhtwlbxvrk-documentation-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 3 |
 
 More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Backend (131)
+## Backend (125)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Mirantis | [AI Infrastructure & Platform Operations Engineer (remote in the EU)](https://www.remotebackendjobs.com/cmwv0spcf0808k96bgtvk9bl7-ai-infrastructure-platform-operations-engineer-remote-in-the-eu?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 24 |
+| Jobgether | [Senior Software Engineer, Bot Detection (Client-Side & Signals)](https://www.remotebackendjobs.com/cmwv0spce0800k96bpp194o5s-senior-software-engineer-bot-detection-client-side-signals?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 24 |
+| Jobgether | [Principal Data Center & Cloud Engineering Lead and Strategist - Remote (Seattle, WA)](https://www.remotebackendjobs.com/cmwv0spcf0807k96bzj7yvwst-principal-data-center-cloud-engineering-lead-and-strategist-remote-seattle-wa?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 24 |
+| Gemini | [Staff Platform Security Engineer](https://www.remotebackendjobs.com/cmwus89qu0685k96bvw31stcq-staff-platform-security-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff | $168k–$240k | Nov 24 |
+| Gemini | [Staff Platform Engineer](https://www.remotebackendjobs.com/cmwus89qv0686k96bur29bpim-staff-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff | $168k–$240k | Nov 24 |
+| Featherless AI | [Machine Learning Engineer — Multilingual Data](https://www.remotebackendjobs.com/cmwu2idqc02efk96bguixhya5-machine-learning-engineer-multilingual-data?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 24 |
+| Samsara | [Software Engineer II](https://www.remotebackendjobs.com/cmwu6sul902xek96b7tv12yfa-software-engineer-ii?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 24 |
+| 15Five | [Senior AI Platform Engineer](https://www.remotebackendjobs.com/cmwu6sula02y6k96bnpjdw5h6-senior-ai-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 24 |
+| GitLab | [Applied AI Engineer, Enterprise AI](https://www.remotebackendjobs.com/cmwu6sula02y4k96b4ly57cs2-applied-ai-engineer-enterprise-ai?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 23 |
+| Kiss My Apps | [Back-End Engineer (Wellbeing product)](https://www.remotebackendjobs.com/cmwt47h6r009e1410olcv1jj5-back-end-engineer-wellbeing-product?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | entry |  | Nov 23 |
 | Jobgether | [Senior .Net Full Stack Software Engineer](https://www.remotebackendjobs.com/cmwsrckwl1dim3q0umqtnnap2-senior-net-full-stack-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 23 |
 | Jobgether | [Unity Software Development Engineer in Test (SDET)](https://www.remotebackendjobs.com/cmwsrckwl1dil3q0u4gwv1ebc-unity-software-development-engineer-in-test-sdet?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 23 |
 | Wonderful | [Forward Deployed Engineer](https://www.remotebackendjobs.com/cmws1mlba19jn3q0u5xyvbyit-forward-deployed-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 22 |
@@ -156,26 +164,10 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | Toptal | [Operations Expert with Python for AI Supply Chain Task Design](https://www.remotebackendjobs.com/cmw56kgwp056ma1vyp4r279je-operations-expert-with-python-for-ai-supply-chain-task-design?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 5 |
 | Toptal | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://www.remotebackendjobs.com/cmw56kgwp056na1vy9r0wv3xh-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 5 |
 | Jobgether | [Staff AI Engineer](https://www.remotebackendjobs.com/cmw3muz1806y2ifruow827epy-staff-ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 5 |
-| Jobgether | [Director, Application Engineering](https://www.remotebackendjobs.com/cmw35pl3u04p4ifruyg7fq9h7-director-application-engineering?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | director | $180k–$200k | Nov 5 |
-| Toptal | [ML Inference Engineer – Terminal-Bench Task Designer](https://www.remotebackendjobs.com/cmw3mv2ds06ztifru3nl048ei-ml-inference-engineer-terminal-bench-task-designer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 4 |
-| AbbVie | [Transformation Project Automation Lead- API](https://www.remotebackendjobs.com/cmw2k9wy001qmifruoc87tgks-transformation-project-automation-lead-api?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 4 |
-| Jobgether | [Senior Architect, Enterprise Agentic Automation](https://www.remotebackendjobs.com/cmw27f7o4003vifrujqq6el49-senior-architect-enterprise-agentic-automation?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 4 |
-| BTSE | [(Sr.) QA Automation Engineer](https://www.remotebackendjobs.com/cmw234s3r01dvp76il3d5jf6i-sr-qa-automation-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 4 |
-| Jobgether | [Software Engineer (Edge - Devices & Mobile)](https://www.remotebackendjobs.com/cmw1yuh6z00wmp76i6cvjdqx0-software-engineer-edge-devices-mobile?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 4 |
-| Qualifyze | [AI Platform Engineer](https://www.remotebackendjobs.com/cmw35pqq004q0ifru2fww3d1u-ai-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid | $56k–$67k | Nov 4 |
-| Databricks | [Solutions Architect - Telco](https://www.remotebackendjobs.com/cmw194k4g02yybduhgfn9f8c3-solutions-architect-telco?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 3 |
-| Moxie | [Staff AI Engineer](https://www.remotebackendjobs.com/cmw15d81u02sjbduhp3ulr4wq-staff-ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 3 |
-| Moxie | [Staff Platform Engineer](https://www.remotebackendjobs.com/cmw15d81u02skbduhn3xklgv4-staff-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 3 |
-| Vanta | [Senior Software Engineer, AI Platform](https://www.remotebackendjobs.com/cmw14ugvn02ikbduh2rf1x0s7-senior-software-engineer-ai-platform?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 3 |
-| Tailscale | [Documentation Platform Engineer](https://www.remotebackendjobs.com/cmw14ugvn02iibduhtwlbxvrk-documentation-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 3 |
-| saas.group | [Backend Engineer](https://www.remotebackendjobs.com/cmw0w9ht901h2bduhinl2smpb-backend-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 3 |
-| Jobgether | [Principal Software Quality Engineer](https://www.remotebackendjobs.com/cmw0rz6rj0138bduhus9swkf1-principal-software-quality-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 3 |
-| Truelogic | [Adobe Multi-Solutions Architect (AEP/CDP) - Marketing](https://www.remotebackendjobs.com/cmw0rz6rj013bbduhsldd722y-adobe-multi-solutions-architect-aepcdp-marketing?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 3 |
-| Jobgether | [Technical Lead (Ruby on Rails, AI-Native)](https://www.remotebackendjobs.com/cmw0noxjm00owbduh9wruxq47-technical-lead-ruby-on-rails-ai-native?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $43k–$58k | Nov 3 |
 
 More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Java (18)
+## Java (17)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
@@ -196,7 +188,6 @@ More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=gi
 | Jobgether | [Java Fullstack Software Engineer (Spring Boot / Angular)](https://www.remotejavajobs.com/cmwas239v0vwq4yqh074m7hjr-java-fullstack-software-engineer-spring-boot-angular?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 10 |
 | Banco Plata, S.A., Institución de Banca Múltiple | [Engineering Manager (Java/Kotlin Stack)](https://www.remotejavajobs.com/cmw60l47e02i04yqhpp0e7hav-engineering-manager-javakotlin-stack?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 7 |
 | ecosio | [Quality Assurance Engineer (m/f/d)](https://www.remotejavajobs.com/cmw5avh6k05s8a1vyfd5mmgd9-quality-assurance-engineer-mfd?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 6 |
-| Truelogic | [Adobe Multi-Solutions Architect (AEP/CDP) - Marketing](https://www.remotejavajobs.com/cmw0rz6rj013bbduhsldd722y-adobe-multi-solutions-architect-aepcdp-marketing?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 3 |
 
 More on [remotejavajobs.com](https://www.remotejavajobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
