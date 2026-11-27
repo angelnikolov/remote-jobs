@@ -2,11 +2,11 @@
 
 Most "remote" developer jobs only hire in one country. This list is the ones that say they hire anywhere: frontend, backend and Java roles tagged worldwide, newest first.
 
-**164 jobs, updated November 26, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
+**164 jobs, updated November 27, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Looking for a first job? See [remote junior and internship developer jobs](JUNIOR.md).
 
-## Frontend (22)
+## Frontend (21)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
@@ -31,7 +31,6 @@ Looking for a first job? See [remote junior and internship developer jobs](JUNIO
 | RainFocus | [UI Developer](https://www.remotefrontendjobs.com/cmw9gw04m0oom4yqhm72zamd2-ui-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | entry |  | Nov 8 |
 | Circle | [Lead Engineer, Member Growth](https://www.remotefrontendjobs.com/cmw7bqvrn08eu4yqhnvcdkf0f-lead-engineer-member-growth?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 8 |
 | Hivex | [FullStack Developer (react + node.js)](https://www.remotefrontendjobs.com/cmw6qb4uc05kh4yqhs0043qx6-fullstack-developer-react-nodejs?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 7 |
-| micro1 | [Frontend / UI Engineer](https://www.remotefrontendjobs.com/cmw48abkg002ta1vy6xrncqfn-frontend-ui-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $146k–$208k | Nov 5 |
 
 More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
@@ -39,6 +38,11 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Netcraft | [Channel Solutions Engineer](https://www.remotebackendjobs.com/cmwwotjte0hwhk96bfg630d2p-channel-solutions-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 25 |
+| Hivex | [C# developer](https://www.remotebackendjobs.com/cmwwg8fap0g3rk96bfsy4pv42-c-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 25 |
+| Supabase | [Product Security Engineer](https://www.remotebackendjobs.com/cmwvzh61s0duxk96b9vdhhy0h-product-security-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 25 |
+| micro1 | [AWS Console Specialist](https://www.remotebackendjobs.com/cmwvz37rn0dj9k96bybzm5157-aws-console-specialist?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $146k–$270k | Nov 25 |
+| Tether.io | [Senior Devops Engineer (100% Remote, Worldwide)](https://www.remotebackendjobs.com/cmwwt3fuo0igpk96b37vin3ac-senior-devops-engineer-100-remote-worldwide?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 24 |
 | Mirantis | [AI Infrastructure & Platform Operations Engineer (remote in the EU)](https://www.remotebackendjobs.com/cmwv0spcf0808k96bgtvk9bl7-ai-infrastructure-platform-operations-engineer-remote-in-the-eu?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 24 |
 | Jobgether | [Senior Software Engineer, Bot Detection (Client-Side & Signals)](https://www.remotebackendjobs.com/cmwv0spce0800k96bpp194o5s-senior-software-engineer-bot-detection-client-side-signals?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 24 |
 | Jobgether | [Principal Data Center & Cloud Engineering Lead and Strategist - Remote (Seattle, WA)](https://www.remotebackendjobs.com/cmwv0spcf0807k96bzj7yvwst-principal-data-center-cloud-engineering-lead-and-strategist-remote-seattle-wa?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 24 |
@@ -75,7 +79,6 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | Airbnb | [Senior Data Engineer Tech Foundations](https://www.remotebackendjobs.com/cmwo46zjs0gwx3q0uy4pijan0-senior-data-engineer-tech-foundations?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $196k–$230k | Nov 19 |
 | Dropbox | [Application Security Engineer](https://www.remotebackendjobs.com/cmwo46zjs0gwv3q0u712u6txd-application-security-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid | $194k–$262k | Nov 19 |
 | Gemini | [Senior Manager, Platform Security](https://www.remotebackendjobs.com/cmwo46zjs0gww3q0u54v7q3mw-senior-manager-platform-security?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager | $195k–$300k | Nov 19 |
-| Supabase | [Software Engineer - Postgres Tooling](https://www.remotebackendjobs.com/cmwnw7ubw0fmz3q0ui55m0y7l-software-engineer-postgres-tooling?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 19 |
 | Jobgether | [Principal Engineer - Liquidity](https://www.remotebackendjobs.com/cmwnvlst90f8h3q0uw1k6t3et-principal-engineer-liquidity?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 19 |
 | Supabase | [Storage Platform Engineer](https://www.remotebackendjobs.com/cmwnnqml10e803q0uw1mzlk6z-storage-platform-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 19 |
 | EMCD | [Senior Go Developer (Blockchain & Ledger)](https://www.remotebackendjobs.com/cmwnn0w110dtp3q0ulovkk92a-senior-go-developer-blockchain-ledger?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 19 |
@@ -160,17 +163,14 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | ecosio | [Quality Assurance Engineer (m/f/d)](https://www.remotebackendjobs.com/cmw5avh6k05s8a1vyfd5mmgd9-quality-assurance-engineer-mfd?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 6 |
 | Supabase | [OrioleDB Deployment Engineer](https://www.remotebackendjobs.com/cmw5f50nm06dja1vyanyuako0-orioledb-deployment-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 6 |
 | Cohere | [Member of Technical Staff, GPU Infrastructure](https://www.remotebackendjobs.com/cmw56l8fb059la1vyuebo7n72-member-of-technical-staff-gpu-infrastructure?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff | $156k | Nov 6 |
-| Turing | [Software Engineer](https://www.remotebackendjobs.com/cmw4pg70o02tda1vy7pzznzyt-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 6 |
-| Toptal | [Operations Expert with Python for AI Supply Chain Task Design](https://www.remotebackendjobs.com/cmw56kgwp056ma1vyp4r279je-operations-expert-with-python-for-ai-supply-chain-task-design?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 5 |
-| Toptal | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://www.remotebackendjobs.com/cmw56kgwp056na1vy9r0wv3xh-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 5 |
-| Jobgether | [Staff AI Engineer](https://www.remotebackendjobs.com/cmw3muz1806y2ifruow827epy-staff-ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 5 |
 
 More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Java (17)
+## Java (18)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Coinbase | [Staff Software Engineer, Native Mobile](https://www.remotejavajobs.com/cmwwt3dfm0ifok96bct0iztco-staff-software-engineer-native-mobile?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 25 |
 | Oddball | [Senior Integration Engineer](https://www.remotejavajobs.com/cmwrbwpls0ytf3q0up35isoqi-senior-integration-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 22 |
 | ZoomInfo Technologies | [Principal Software Engineer](https://www.remotejavajobs.com/cmwrg75fq15y83q0um2c761hu-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $164k–$257k | Nov 21 |
 | Jobgether | [Java Tech Lead](https://www.remotejavajobs.com/cmwqdmb2j0tzn3q0uiqplbiah-java-tech-lead?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 21 |
