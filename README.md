@@ -2,7 +2,7 @@
 
 Most "remote" developer jobs only hire in one country. This list is the ones that say they hire anywhere: frontend, backend and Java roles tagged worldwide, newest first.
 
-**164 jobs, updated November 27, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
+**161 jobs, updated November 28, 2026.** Rebuilt regularly from live postings; jobs older than three weeks drop off.
 
 Looking for a first job? See [remote junior and internship developer jobs](JUNIOR.md).
 
@@ -34,10 +34,19 @@ Looking for a first job? See [remote junior and internship developer jobs](JUNIO
 
 More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Backend (125)
+## Backend (121)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Jobgether | [Engineering Productivity Engineer](https://www.remotebackendjobs.com/cmwypov8e0tktk96b9ujixlf0-engineering-productivity-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 27 |
+| PointClickCare | [Principal Software Engineer](https://www.remotebackendjobs.com/cmwy48yc00qkvk96bs7xomwx2-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal |  | Nov 26 |
+| Ping Identity | [Principal Software Engineer](https://www.remotebackendjobs.com/cmwy492ll0qmlk96bg7o6hwz1-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $150k–$170k | Nov 26 |
+| Anthropic | [Corporate Network Engineer](https://www.remotebackendjobs.com/cmwy492ll0qmnk96bko7eboim-corporate-network-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $325k–$360k | Nov 26 |
+| Anthropic | [Cyber Evaluations Engineer](https://www.remotebackendjobs.com/cmwy492ll0qmmk96b2wnqs50i-cyber-evaluations-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $300k–$405k | Nov 26 |
+| Jobgether | [(Senior) Java Test Automation Engineer](https://www.remotebackendjobs.com/cmwxitrnw0n5gk96beq4rnx68-senior-java-test-automation-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 26 |
+| ZoomInfo Technologies | [Senior Software Engineer (Java)- US Remote](https://www.remotebackendjobs.com/cmwy492lk0qmgk96bs6w7ohii-senior-software-engineer-java-us-remote?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $140k–$220k | Nov 26 |
+| Rubrik Job Board | [Global Solutions Architect](https://www.remotebackendjobs.com/cmwy492lk0qmik96blo6sugko-global-solutions-architect?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $231k–$324k | Nov 26 |
+| LaunchDarkly | [GTM AI Engineer](https://www.remotebackendjobs.com/cmwy492lk0qmjk96bf1d4vzoi-gtm-ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $197k–$270k | Nov 26 |
 | Netcraft | [Channel Solutions Engineer](https://www.remotebackendjobs.com/cmwwotjte0hwhk96bfg630d2p-channel-solutions-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 25 |
 | Hivex | [C# developer](https://www.remotebackendjobs.com/cmwwg8fap0g3rk96bfsy4pv42-c-developer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 25 |
 | Supabase | [Product Security Engineer](https://www.remotebackendjobs.com/cmwvzh61s0duxk96b9vdhhy0h-product-security-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 25 |
@@ -150,26 +159,16 @@ More on [remotefrontendjobs.com](https://www.remotefrontendjobs.com/?utm_source=
 | Circle | [Lead Engineer, Member Growth](https://www.remotebackendjobs.com/cmw7bqvrn08eu4yqhnvcdkf0f-lead-engineer-member-growth?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 8 |
 | Agora | [Senior Infrastructure Engineer](https://www.remotebackendjobs.com/cmw6qaz5505j14yqhdo1nrohs-senior-infrastructure-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 7 |
 | Stone | [QUALITY ASSURANCE ENGINEER JR](https://www.remotebackendjobs.com/cmw6m0um1056t4yqhhouao1rz-quality-assurance-engineer-jr?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | entry |  | Nov 7 |
-| Banco Plata, S.A., Institución de Banca Múltiple | [Engineering Manager (Java/Kotlin Stack)](https://www.remotebackendjobs.com/cmw60l47e02i04yqhpp0e7hav-engineering-manager-javakotlin-stack?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 7 |
-| Samsara | [Sr. Firmware Engineer II](https://www.remotebackendjobs.com/cmw5nqau900qp4yqhdn5ofdth-sr-firmware-engineer-ii?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 6 |
-| MEWS | [Lead GTM System Builder](https://www.remotebackendjobs.com/cmw8a1m240hj44yqh220cnyic-lead-gtm-system-builder?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $106k–$168k | Nov 6 |
-| MEWS | [Product Builder - Fintech](https://www.remotebackendjobs.com/cmw8a1m240hj04yqh6jd1l4u9-product-builder-fintech?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  | $84k–$101k | Nov 6 |
-| MEWS | [Senior Analytics Engineer - Finance](https://www.remotebackendjobs.com/cmw8a1m230hit4yqhaq24gz2v-senior-analytics-engineer-finance?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $80k–$96k | Nov 6 |
-| MEWS | [Senior GTM System Builder](https://www.remotebackendjobs.com/cmw8a1m230his4yqhcx66ahxi-senior-gtm-system-builder?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $79k–$115k | Nov 6 |
-| MEWS | [Staff Engineer](https://www.remotebackendjobs.com/cmw8a1m230hio4yqhpiru57ou-staff-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff | $109k–$143k | Nov 6 |
-| MEWS | [VP of Product & Engineering - Back of House](https://www.remotebackendjobs.com/cmw8a1m230hin4yqhvgnkdfyt-vp-of-product-engineering-back-of-house?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | executive | $188k–$348k | Nov 6 |
-| Coinbase | [Staff Software Engineer - Backend (Consumer - Agentic Trading)](https://www.remotebackendjobs.com/cmw5f5npd06ema1vydjej417b-staff-software-engineer-backend-consumer-agentic-trading?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 6 |
-| Flex | [Senior Engineering Manager, Consumer / New Verticals](https://www.remotebackendjobs.com/cmw56muq105dua1vybcsg2d4d-senior-engineering-manager-consumer-new-verticals?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager | $240k–$300k | Nov 6 |
-| ecosio | [Quality Assurance Engineer (m/f/d)](https://www.remotebackendjobs.com/cmw5avh6k05s8a1vyfd5mmgd9-quality-assurance-engineer-mfd?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 6 |
-| Supabase | [OrioleDB Deployment Engineer](https://www.remotebackendjobs.com/cmw5f50nm06dja1vyanyuako0-orioledb-deployment-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 6 |
-| Cohere | [Member of Technical Staff, GPU Infrastructure](https://www.remotebackendjobs.com/cmw56l8fb059la1vyuebo7n72-member-of-technical-staff-gpu-infrastructure?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff | $156k | Nov 6 |
 
 More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
-## Java (18)
+## Java (19)
 
 | Company | Role | Level | Pay / year | Posted |
 |---|---|---|---|---|
+| Ping Identity | [Principal Software Engineer](https://www.remotejavajobs.com/cmwy492ll0qmlk96bg7o6hwz1-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $150k–$170k | Nov 26 |
+| Jobgether | [(Senior) Java Test Automation Engineer](https://www.remotejavajobs.com/cmwxitrnw0n5gk96beq4rnx68-senior-java-test-automation-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 26 |
+| ZoomInfo Technologies | [Senior Software Engineer (Java)- US Remote](https://www.remotejavajobs.com/cmwy492lk0qmgk96bs6w7ohii-senior-software-engineer-java-us-remote?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior | $140k–$220k | Nov 26 |
 | Coinbase | [Staff Software Engineer, Native Mobile](https://www.remotejavajobs.com/cmwwt3dfm0ifok96bct0iztco-staff-software-engineer-native-mobile?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | staff |  | Nov 25 |
 | Oddball | [Senior Integration Engineer](https://www.remotejavajobs.com/cmwrbwpls0ytf3q0up35isoqi-senior-integration-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | senior |  | Nov 22 |
 | ZoomInfo Technologies | [Principal Software Engineer](https://www.remotejavajobs.com/cmwrg75fq15y83q0um2c761hu-principal-software-engineer?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | principal | $164k–$257k | Nov 21 |
@@ -186,8 +185,6 @@ More on [remotebackendjobs.com](https://www.remotebackendjobs.com/?utm_source=gi
 | Nortal | [(EG0080) Java Engineer - Talent Connection](https://www.remotejavajobs.com/cmwh7je2800dwcr6l25h4q521-eg0080-java-engineer-talent-connection?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 15 |
 | Airbnb | [Software Engineer, Profile & Community, Android](https://www.remotejavajobs.com/cmwff8pgw034mceh8ky97nsso-software-engineer-profile-community-android?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 13 |
 | Jobgether | [Java Fullstack Software Engineer (Spring Boot / Angular)](https://www.remotejavajobs.com/cmwas239v0vwq4yqh074m7hjr-java-fullstack-software-engineer-spring-boot-angular?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | mid |  | Nov 10 |
-| Banco Plata, S.A., Institución de Banca Múltiple | [Engineering Manager (Java/Kotlin Stack)](https://www.remotejavajobs.com/cmw60l47e02i04yqhpp0e7hav-engineering-manager-javakotlin-stack?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) | manager |  | Nov 7 |
-| ecosio | [Quality Assurance Engineer (m/f/d)](https://www.remotejavajobs.com/cmw5avh6k05s8a1vyfd5mmgd9-quality-assurance-engineer-mfd?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo) |  |  | Nov 6 |
 
 More on [remotejavajobs.com](https://www.remotejavajobs.com/?utm_source=github&utm_medium=referral&utm_campaign=jobs-repo).
 
